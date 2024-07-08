@@ -6,7 +6,7 @@ import LeaderboardIcon from "@mui/icons-material/Leaderboard";
 
 export function Asidebar() {
   return (
-    <aside className="flex w-1/6 h-screen p-9 flex-col bg-white">
+    <aside className="flex w-1/6 h-auto p-9 flex-col bg-white">
       <div className="flex flex-col gap-6 ">
         <div className=" flex flex-row gap-8 items-center">
           <div className="bg-primary-color p-3 rounded-xl">
