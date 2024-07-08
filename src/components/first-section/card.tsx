@@ -1,4 +1,5 @@
 import Avatar from "@mui/material/Avatar";
+import { CardProps } from "@/@types";
 
 export function Card({
   Icon,
@@ -7,7 +8,7 @@ export function Card({
   title,
   description,
   details,
-}: any) {
+}: CardProps) {
   return (
     <div
       style={{ backgroundColor: bgColor }}

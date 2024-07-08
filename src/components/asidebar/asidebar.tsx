@@ -16,7 +16,7 @@ export function Asidebar() {
               className=" w-14 -rotate-[32deg]"
             />
           </div>
-          <h1>Blue</h1>
+          <h2>Blue</h2>
         </div>
         <div className="flex flex-col  gap-4    ">
           <div className="m-auto flex gap-6 bg-primary-color p-5 rounded-xl w-full justify-center">

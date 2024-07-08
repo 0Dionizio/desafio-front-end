@@ -19,7 +19,7 @@ export function FirstSection() {
           Exportar <IosShareIcon />
         </div>
       </div>
-      <div className="mt-8 flex flex-row gap-4 flex-wrap">
+      <div className="mt-8 flex flex-row gap-4 ">
         <Card
           Icon={InsertChartIcon}
           bgAvatarColor="#FA5A7D"
